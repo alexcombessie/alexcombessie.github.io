@@ -1,2 +1,2 @@
 # alteralec.github.io
-My GitHub page. Redirects to alex.combessie.com
+My GitHub page. Redirects to <http://alex.combessie.com>
